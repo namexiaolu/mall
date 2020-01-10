@@ -1,10 +1,14 @@
 <template>
-  <h2>首页</h2>
+<div>
+ <h2>
+    购物车
+  </h2>
+</div>
 </template>
 
 <script>
 export default {
-  name:'Home'
+  name:'Cart'
 }
 </script>
 

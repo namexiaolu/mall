@@ -5,8 +5,8 @@ module.exports = {
 			alias:{
 				// '@':'src' 这个是默认已经存在的
 				'assets':'@/assets',
-				'common':'@/components',
-				'network':'@/networkccc'
+				'components':'@/components',
+				'network':'@/network'
 			}
 		}
 	}
