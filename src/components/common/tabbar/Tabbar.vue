@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <div id="tab-bar">
       <slot></slot>
     </div>
