@@ -47,3 +47,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 3. 此时，没有人指向内存了，内存就被会收了，所以东西就不会保存。
 4. 如果我们在函数运行的时候，让别的东西指向这个内存，那么这个内存就不会被回收。就还会保存。例如`this.result = res`就是把res指向内存的地址，给了data中的result。
  ![](README_files/4.jpg)
+ ## 轮播图
+### 在轮播文件夹中加上一个index.js的作用
+就是让他在其他文件中导入的时候方便
+155-12分
